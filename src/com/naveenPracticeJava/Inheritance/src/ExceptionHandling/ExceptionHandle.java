@@ -36,7 +36,5 @@ public class ExceptionHandle {
 		finally {
 			System.out.println("This finally block will execute all time...");
 		}
-
 	}
-
 }

@@ -6,6 +6,10 @@
 *.xmi
 *.snap
 *.index
+*.mylyn
+*.plugins
+*.lock
+*version
 
 # BlueJ files
 *.ctxt

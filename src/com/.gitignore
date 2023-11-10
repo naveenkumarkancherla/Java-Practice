@@ -1,9 +1,16 @@
 # Compiled class file
 *.class
 
-# Log files
 *.log
 *.metadata
+*.xmi
+*.snap
+*.index
+*.mylyn
+*.plugins
+*.lock
+*version
+
 # BlueJ files
 *.ctxt
 
